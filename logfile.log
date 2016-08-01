@@ -1,0 +1,50 @@
+Jun 07, 2016 6:09:13 PM Source.Code scrap_data
+INFO: Search started
+Jun 07, 2016 6:09:16 PM Source.Code scrap_data
+INFO: Sites found for search...
+
+Jun 07, 2016 6:09:16 PM Source.Code scrap_data
+INFO: site:1
+
+Jun 07, 2016 6:09:22 PM Source.Code get_code
+INFO: Code Present...
+
+Jun 07, 2016 6:09:22 PM Source.Code scrap_data
+INFO: site:2
+
+Jun 07, 2016 6:09:23 PM Source.Code get_code
+INFO: No Code Found...
+
+Jun 07, 2016 6:09:23 PM Source.Code scrap_data
+INFO: site:3
+
+Jun 07, 2016 6:09:25 PM Source.Code get_code
+INFO: Code Present...
+
+Jun 07, 2016 6:09:25 PM Source.Code scrap_data
+INFO: site:4
+
+Jun 07, 2016 6:09:28 PM Source.Code get_code
+INFO: No Code Found...
+
+Jun 07, 2016 6:09:28 PM Source.Code scrap_data
+INFO: site:5
+
+Jun 07, 2016 6:09:29 PM Source.Code get_code
+INFO: Code Present...
+
+Jun 07, 2016 6:09:29 PM Source.Code scrap_data
+INFO: site:6
+
+Jun 07, 2016 6:09:30 PM Source.Code get_code
+INFO: No Code Found...
+
+Jun 07, 2016 6:09:30 PM Source.Code scrap_data
+INFO: site:7
+
+Jun 07, 2016 6:09:32 PM Source.Code get_code
+INFO: No Code Found...
+
+Jun 07, 2016 6:09:32 PM Source.Code scrap_data
+INFO: Search Completed Successfully
+
